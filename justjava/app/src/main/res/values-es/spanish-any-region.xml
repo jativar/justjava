@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <!-- Message displayed when the customer tries to request more than 100 coffees -->
+    <string name="too_many_coffees">No se pueden pedir más de 10 cafés.</string>
+
+    <!-- Message displayed when the customer tries to request less than 1 coffee -->
+    <string name="too_few_coffees">No se pueden pedir menos de 1 café.</string>
+
+</resources>

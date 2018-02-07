@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Ice Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="name">Name</string>
+    <string name="order">Order</string>
+    <string name="quantity">Quantity</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+</resources>
